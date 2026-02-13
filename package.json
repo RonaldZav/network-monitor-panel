@@ -1,0 +1,20 @@
+{
+  "name": "network-monitor",
+  "version": "0.1.0",
+  "author": "ronaldzav",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@types/node": "^18.11.5",
+    "@types/react-dom": "^18.0.7",
+    "@types/react": "^18.0.23",
+    "next": "latest",
+    "react-dom": "^18.2.0",
+    "react": "^18.2.0",
+    "serve": "^14.2.0",
+    "typescript": "^4.8.4"
+  }
+}
